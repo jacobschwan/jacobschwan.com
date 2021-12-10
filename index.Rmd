@@ -1,0 +1,20 @@
+---
+title: "Jacob Schwan"
+image: "profile_square.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/jacobschwan"
+  - label: Twitter
+    url: "https://twitter.com/jacob_schwan"
+  - label: GitHub
+    url: "https://github.com/jacobschwan"
+  - label: Email
+    url: "mailto:j.schwan@jacobschwan.com"
+output:
+  postcards::jolla_blue
+---
+ 
+Aspiring data scientist in the Minneapolis, MN.  
+University of Minnesota alumni and Gopher sports fan.
+Fluent in R, SQL, and Docker.  
+
