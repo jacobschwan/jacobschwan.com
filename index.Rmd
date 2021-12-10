@@ -14,7 +14,7 @@ output:
   postcards::jolla_blue
 ---
  
-Aspiring data scientist in the Minneapolis, MN.  
+Aspiring data scientist in Minneapolis, MN.  
 University of Minnesota alumni and Gopher sports fan.
 Fluent in R, SQL, and Docker.  
 
