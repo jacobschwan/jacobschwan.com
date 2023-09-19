@@ -6,6 +6,8 @@ links:
     url: "https://linkedin.com/in/jacobschwan"
   - label: Twitter
     url: "https://twitter.com/jacob_schwan"
+  - label: Mastodon
+    url: "https://fosstodon.org/&#64;jacob_schwan"
   - label: GitHub
     url: "https://github.com/jacobschwan"
   - label: Email
@@ -13,8 +15,7 @@ links:
 output:
   postcards::jolla_blue
 ---
- 
-Aspiring data scientist in Minneapolis, MN.  
-University of Minnesota alumni and Gopher sports fan.  
-Fluent in R, SQL, and Docker.  
 
+Aspiring data scientist in Minneapolis, MN.\
+University of Minnesota alumni and Gopher sports fan.\
+Fluent in R, SQL, and Docker.
